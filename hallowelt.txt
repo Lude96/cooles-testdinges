@@ -1,3 +1,2 @@
-Hallo Leute,
-
-Ich bin der Hans.
+Hallo Hans,
+ich bin der Duc.
